@@ -1,1 +1,1 @@
-script>&?(print->hello)
+script>&?(print->hello);
