@@ -1,1 +1,4 @@
 script>&?(print->hello);
+script>&?(print->hello my dear guests);
+script>&?(print->what's up);
+script>&?(print->hi);
